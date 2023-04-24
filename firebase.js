@@ -8,12 +8,12 @@ import "firebase/compat/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA81JooqyUVW26txzK_YCyWBe1q4dd3SsM",
-  authDomain: "bookexchange-d2fd4.firebaseapp.com",
-  projectId: "bookexchange-d2fd4",
-  storageBucket: "bookexchange-d2fd4.appspot.com",
-  messagingSenderId: "678813527676",
-  appId: "1:678813527676:web:7f345d6287f22bcc21e3f9"
+  apiKey: "API_KEY",
+  authDomain: "----.firebaseapp.com",
+  projectId: "----",
+  storageBucket: "-----.com",
+  messagingSenderId: "-----",
+  appId: "------"
 };
 
 // Initialize Firebase
